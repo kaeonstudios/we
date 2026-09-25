@@ -87,7 +87,10 @@ export interface WeddingData {
 
   credit: {
     enabled: boolean;
-    handle: string;
-    instagramUrl: string;
+    text?: string;
+    linkText?: string;
+    url?: string;
+    handle?: string;
+    instagramUrl?: string;
   };
 }

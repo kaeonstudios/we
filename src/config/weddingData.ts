@@ -109,7 +109,8 @@ export const weddingData: WeddingData = {
 
   credit: {
     enabled: true,
-    handle: "@shezin.ahmd",
-    instagramUrl: "https://www.instagram.com/shezin.ahmd/"
+    text: "Made with love by",
+    linkText: "Moments by Kaeon",
+    url: "https://www.kaeonstudios.com/brands/moments"
   }
 };
